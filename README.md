@@ -1,3 +1,3 @@
 # iocage-plugin-readarr
 
-TODO
+An TrueNAS/FreeNAS plugin for Readarr, "Sonarr for Ebooks"
